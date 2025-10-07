@@ -20,6 +20,7 @@ python-dotenv
 
 # --- AI/LLM 相关 ---
 openai
+google-generativeai
 
 # --- 校验、序列化 ---
 jsonschema
