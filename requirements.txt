@@ -20,7 +20,7 @@ python-dotenv
 
 # --- AI/LLM 相关 ---
 openai
-google-generativeai
+dashscope
 
 # --- 校验、序列化 ---
 jsonschema
